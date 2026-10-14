@@ -39,6 +39,9 @@ internlr /path/to/input/protein.fasta /path/to/output/directory
 
 
 
+
+
+
 If you use this tool, please cite:
 
-Gonçalves L.M., Oliveira M.M. and Barros P..M (2026) Genome-wide analysis of cork oak NLRs reveals RNL-associated duplications and immune receptor candidates associated with biotic and abiotic stress response. Front. Genet. 17:1894037. doi: 10.3389/fgene.2026.1894037
+Gonçalves L.M., Oliveira M.M. and Barros P.M. (2026) Genome-wide analysis of cork oak NLRs reveals RNL-associated duplications and immune receptor candidates associated with biotic and abiotic stress response. Front. Genet. 17:1894037. doi: 10.3389/fgene.2026.1894037
